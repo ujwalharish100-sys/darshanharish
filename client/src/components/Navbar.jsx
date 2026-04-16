@@ -5,7 +5,7 @@ function Navbar() {
     <nav className="navbar">
       <div className="navbar-content">
         <div className="navbar-brand">
-          MCQ Hub
+          Darshan Harish
         </div>
         <ul className="navbar-nav">
           <li><a href="#home">Home</a></li>
