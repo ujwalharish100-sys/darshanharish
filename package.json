@@ -1,0 +1,13 @@
+{
+  "name": "mcq-hub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "cd client && npm run preview"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
