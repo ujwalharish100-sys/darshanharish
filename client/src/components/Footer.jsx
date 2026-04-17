@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer className="footer" id="contact">
       <div className="footer-content">
-        <p>&copy; 2024 MCQ Hub. All rights reserved.</p>
+        <p>&copy; 2026 MCQ Hub. All rights reserved.</p>
         <div className="social-links">
           <a 
             href="https://www.linkedin.com" 
